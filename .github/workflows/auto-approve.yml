@@ -10,3 +10,12 @@ jobs:
     steps:
       - uses: hmarr/auto-approve-action@v2
         if: github.actor == 'lrcarvalho'
+  automerge:
+    runs-on: ubuntu-latest
+    steps:
+      - id: automerge
+        name: automerge
+        uses: "pascalgn/automerge-action@v0.15.3"
+        env:
+          MERGE_LABELS: "automerge,!work in progress"
+          MERGE_REMOVE_LABELS: "automerge"
