@@ -6,7 +6,7 @@ baseurl: ''
 profilepic: 'https://avatars.githubusercontent.com/u/46821'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
-#font_awesome: 'e4ea0cab18.js'
+font_awesome: 'e4ea0cab18.js'
 
 author:
   name: 'Leandro Carvalho'
