@@ -87,6 +87,17 @@
               </li>
             {% endif %}
 
+            {% if site.author.cv.en %}
+              <!-- CV -->
+              <li class="navigation__item">
+                <a href="{{ site.baseurl }}{{ site.author.cv.en }}" title="Download CV" target="_blank">
+                  <!--<i class="icon icon-mail"></i>-->
+                  <i class="fa-solid fa-file-pdf"></i>
+                  <span class="label">Download CV</span>
+                </a>
+              </li>
+            {% endif %}
+
             </ul>
           </nav>
           

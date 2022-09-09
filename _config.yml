@@ -16,6 +16,10 @@ author:
   github_username:  lrcarvalho
   linkedin_username:  lrcarvalho
 #  meetup_name: Azure-Meetup-Rostock-MV
+  cv:
+    en: '/files/cv_lrcarvalho_en.pdf'
+    pt_br: '/files/cv_lrcarvalho_pt.pdf'
+    es: '/files/cv_lrcarvalho_es.pdf'
 
 # Build settings
 destination: _site
