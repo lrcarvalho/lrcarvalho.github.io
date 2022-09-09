@@ -5,7 +5,8 @@ url: 'http://lrcarvalho.github.io'
 baseurl: ''
 profilepic: 'https://avatars.githubusercontent.com/u/46821'
 bkimage: '/images/bk1.jpg'
-google_analytics: 'GTM-PX82RDG'
+# google_analytics: 'GTM-PX82RDG'
+google_analytics: 'G-2ENG0GV97H'
 font_awesome: 'e4ea0cab18.js'
 
 author:
